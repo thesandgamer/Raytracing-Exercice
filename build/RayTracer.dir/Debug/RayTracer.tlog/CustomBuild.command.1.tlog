@@ -1,0 +1,10 @@
+^D:\GAME3\NOURIGAT ADRIEN\RAYTRACING\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/Game3/Nourigat Adrien/RayTracing" "-BD:/Game3/Nourigat Adrien/RayTracing/build" --check-stamp-file "D:/Game3/Nourigat Adrien/RayTracing/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

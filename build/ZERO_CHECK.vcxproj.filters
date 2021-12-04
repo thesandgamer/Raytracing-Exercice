@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Game3\Nourigat Adrien\RayTracing\build\CMakeFiles\28edd7e865e2f0c29c40cd8e845dc8f3\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C4A87D6C-13E3-323B-A83F-256657BA6BFD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
